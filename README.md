@@ -35,16 +35,16 @@ A difficulty I encountered was that I was instructed to use a parent category in
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-Two conclusions I can draw from the Outcomes based on Launch Date are that the month of May is likely the best time to start a campaign, and the fall months will likely have the most unpredictable results. 
+   Two conclusions I can draw from the Outcomes based on Launch Date are that the month of May is likely the best time to start a campaign, and the fall months will    likely have the most unpredictable results. 
 
 - What can you conclude about the Outcomes based on Goals?
 
-A conclusion of the Outcomes Based on Goals I will make is that after about a $15000 goal, the volatility of the success rate is quite high. The higher goals are quite unpredictable.
+    A conclusion of the Outcomes Based on Goals I will make is that after about a $15000 goal, the volatility of the success rate is quite high. The higher goals      are quite unpredictable.
 
 - What are some limitations of this dataset?
 
-A limitation of this dataset is that there aren't any canceled campaigns for the plays, and there are relatively few campaigns with the goal amount exceeding $30000. So it is hard to analyze the upper echelon of campaign goals, as the data becomes much more sparse. 
+  A limitation of this dataset is that there aren't any canceled campaigns for the plays, and there are relatively few campaigns with the goal amount exceeding       $30000. So it is hard to analyze the upper echelon of campaign goals, as the data becomes much more sparse. 
 
 - What are some other possible tables and/or graphs that we could create?
 
-We could create a graph describing the relationship between the timeframe length of the campaign, and the amount of money pledged. We could also use the Pivot table to see a year-by-year breakdown. 
+  We could create a graph describing the relationship between the timeframe length of the campaign, and the amount of money pledged. We could also use the Pivot       table to see a year-by-year breakdown. 
